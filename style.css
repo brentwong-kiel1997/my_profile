@@ -4,7 +4,7 @@
 }
 
 h2{
-
+	font-size: 4rem;
 }
 
 body, html {
@@ -15,4 +15,13 @@ body, html {
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
+}
+
+h3{
+	font-size: 2rem;
+}
+
+hr{
+  border: 5px solid green;
+  border-radius: 5px;
 }
